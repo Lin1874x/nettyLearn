@@ -1,5 +1,5 @@
 ## 结构
-  cn.lin1874.bio.BIOServer          **BIO**
+```  cn.lin1874.bio.BIOServer          **BIO**
   
             .nio.BasicBuffer        **NIOBuffer**
             
@@ -22,3 +22,4 @@
             .netty.protocoltcp      **protocolTCP**
             
             .netty.dubborpc         **DubboRPC**
+            ```
